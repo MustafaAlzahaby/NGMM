@@ -1,17 +1,17 @@
-# Overview: ASP.NET MVC 5 E-Commerce Web Application
-This project is a full-stack web application that serves as an e-commerce website selling various consumer products. This project builds on ASP.NET MVC 5 using Entity Framework code first approach. It is a single solution project divided into two parts first is Client Side (Main Website) and second is Admin Side (Control & Monitor). It is a complete project for sellers to sell your products online.
+# Overview: NGMM (Next-generation of Manufacturing Monitoring)
+NGMM is a comprehensive web application specifically designed to revolutionize the manufacturing industry, with a focus on Construction Prefabrication Facilities. It offers advanced real-time tracking and monitoring capabilities for every part being manufactured. 
 
 # Technology used
-* **Front-End:** HTML5, CSS3, Jquery 3.6.1., Bootstrap 5.1, Font Awesome 6.1.1 pro
-* **Backend:** ASP.NET MVC 5, Entity Framework 6, Microsoft SQL Server
+* **Front-End:** HTML5, CSS3, Jquery 3.6.1., Bootstrap 5.1, Font Awesome 6.1.1 pro.
+* **Back-End:** ASP.NET Core 7, Entity Framework 7, Microsoft SQL Server, Identity.EntityFrameworkCore, SignalR, Ajax, LINQ, jQuery.
+* **Libraries:** jQuery 3.6.4, jQuery Data Table Js, Signal R, Select2, NToastNotify, ExcelDataReader, IText7.
 
 # Main Features:
 * Divided into two parts Client Side and Admin Side.
 * Login and logout functionality.
-* Advanced Search Box.
-* Filter product by category.
-* Filter product by price range.
-* Add to cart functionality.
-* Check-Out and place order: Currently support cash on delivery option.
-* Auto product update.
-
+* Live Dashboard.
+* Real-time product tracking.
+* Chatting System.
+* Shipping Service.
+* Quality Control System.
+* File Management System.
